@@ -1,0 +1,3 @@
+undetected-chromedriver : 구글 자동 로그인 가능하게 해주는 라이브러리
+
+execute_script(scrolldown)에서 document.body의 scrollheight아니라 document.querySelector('#contents > ytd-playlist-video-list-renderer')의 scrollheight사용
