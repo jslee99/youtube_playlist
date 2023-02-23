@@ -1,0 +1,7 @@
+undetected-chromedriver : 사용불가 -> 로그인 기능 삭제
+플레이리스트 공개로 전환하고 url로 바로 접근하는 방식
+
+webdriver manager로 크롬드라이버 자동 관리
+드라이버 경로 : C:\Users\junsub\.wdm\drivers\chromedriver\win32\110.0.5481
+
+크롤링과 파일 쓰기 분리

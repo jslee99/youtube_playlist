@@ -10,8 +10,8 @@ from selenium.webdriver.common.keys import Keys
 #보관함(playlist)의 url
 url = 'https://www.youtube.com/playlist?list=PLKZM3vsUUZm3S5gPeCc-tbPDdTW6EVArd'
 #보관함 (playlist)비공개일시 control_driver함수 내부에서 login함수 호출 공개일시 login함수 호출 안해도 됨. 이때 login함수에서 쓰이게 될 email,pwd정보
-email = ''
-pwd = ''
+email = 'junsublee0617'
+pwd = 'uisbahuiah3876@!'
 
 
 def crawling_playlist(driver:uc.Chrome):
