@@ -11,6 +11,10 @@ from selenium.webdriver.common.keys import Keys
 #보관함(playlist)의 url, 공개로 전환해두기
 #팝송가사
 url = 'https://www.youtube.com/playlist?list=PLKZM3vsUUZm3HbcXnq6HlAe26RPkwBFU9'
+#MA
+# url = 'https://www.youtube.com/playlist?list=PLKZM3vsUUZm2PTEWff4oth-7wNV64qhSu'
+#짬통
+# url = 'https://www.youtube.com/playlist?list=PLKZM3vsUUZm1fnIO8i5Wk4HtELfLmcvo9'
 
 def file_write(key_name_list:list):
     file = open('./test.txt', 'a', encoding='utf8')
